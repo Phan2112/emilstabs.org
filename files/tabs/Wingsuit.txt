@@ -18,11 +18,11 @@ It's only you, be you, cause you're the only one
 
 Pre-Chorus: (repeat 2x)
 
-       D5    C5
+C5      D5    C5
 And it feels good
-         D5   C5
+C5        D5   C5
 Cause it feels good
-       D5    C5
+C5      D5    C5
 And it feels good
 
 Verse
@@ -32,7 +32,19 @@ Caught in this procession of unchanging days
 What's new is old, what's old is gone
 You're pushed up to the edge so put your wingsuit on
 
-[repeat Pre-Chorus 1x]
+Pre-Chorus
+
+C5         D5    C
+Put your wingsuit on (4x)
+
+On 7/5/14 at SPAC Trey plays this lick before the chorus
+
+E------------------------------
+B------------------------------
+G--------2-3-------------------
+D--5-3-5-----------------------
+A------------------------------
+E------------------------------
 
 Chorus
 
@@ -46,7 +58,7 @@ At the C Trey plays this lick twice.
 E----------------------------------------------
 B------6------5-------1------------------------
 G----------------------------------------------
-D--6/7----4/5----1/2----------------------------
+D--6/7----4/5----1/2---------------------------
 A----------------------------------------------
 E----------------------------------------------
 
@@ -55,7 +67,7 @@ E----------------------------------------------
 [verse riff]
 Steal away, paint the sky
 
-          D5      C
+C5         D5    C
 Put your wingsuit on (4x)
 
 Bb             F                   C
